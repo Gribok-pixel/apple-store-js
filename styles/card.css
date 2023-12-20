@@ -1,0 +1,153 @@
+@import 'modules/reset.css';
+@import 'modules/header.css';
+
+.one-card {
+    padding: 60px 0;
+}
+
+.card-block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 100%;
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.swiper {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.swiper-slide {
+    background-size: cover;
+    background-position: center;
+}
+
+.mySwiper2 {
+    height: 80%;
+    width: 450px;
+}
+
+.mySwiper {
+    height: 20%;
+    box-sizing: border-box;
+    padding: 10px 0;
+    width: 500px;
+}
+
+.mySwiper .swiper-slide {
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.mySwiper .swiper-slide:hover {
+    border: 2px solid #b735ae;
+}
+
+.mySwiper .swiper-slide-thumb-active {
+    opacity: 1;
+    border: 2px solid #b735ae;
+}
+
+.swiper-slide img {
+    margin: 0 auto;
+    display: block;
+    width: 70%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* ========================================== */
+
+.card-info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 28px;
+}
+
+.color, .memory, .SIM {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+}
+.color-title {
+    width: 100px;
+}
+
+
+.color-choice {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #666;
+    border-radius: 50%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.white {
+    background-color: #fff;
+}
+.black {
+    background-color: #000;
+}
+.blue {
+    background-color: rgb(25, 17, 249)
+}
+.titanium {
+    background-color: rgb(249, 168, 17)
+}
+
+
+.memory-choice {
+    text-align: center;
+    font-weight: 700;
+    width: 100px;
+    padding: 12px 0;
+    border: 2px solid #b735ae;
+    border-radius: 6px;
+    margin-right: 15px;
+}
+
+.SIM-choice {
+    text-align: center;
+    font-weight: 700;
+    width: 120px;
+    padding: 12px 0;
+    border: 2px solid #b735ae;
+    border-radius: 6px;
+    margin-right: 15px;
+}
+
+
+.price {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.add {
+    text-align: center;
+    border-radius:7px;
+    padding: 20px 0;
+    width: 100%;
+    background-color: #b735ae;
+
+    color: #fff;
+    font-size: 19px;
+    letter-spacing: 1px;
+
+    cursor: pointer;
+}

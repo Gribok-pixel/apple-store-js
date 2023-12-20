@@ -1,0 +1,107 @@
+a {
+	color: inherit;
+	cursor: pointer;
+}
+
+.container {
+	margin: 0 320px;
+}
+
+.none {
+	display: none;
+}
+
+/* Header */
+header {
+	border-bottom: 1px solid #e8e8ed;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100px;
+}
+
+.logo-text {
+	font-size: 36px;
+}
+
+.header-icons {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	width: 8%;
+}
+.favorites {
+	padding-top: 5px;
+}
+
+.favorites, .basket {
+	cursor: pointer;
+}
+
+
+/* Favorites block and Basket block */
+
+.favorites-block, .basket-block {
+	z-index: 10;
+	position: absolute;
+	/* width: 1000px; */
+	background-color: #fff;
+	/* border: 1px solid green; */
+	right: 320px;
+	top: 105px;
+	padding: 0 20px;
+}
+
+.favorites-block-name {
+	margin: 15px auto;
+	font-size: 27px;
+	letter-spacing: 1px;
+	font-weight: 700;
+}
+
+.favorite-grid, .basket-grid {
+	box-shadow: -2px 2px 9px 6px rgba(34, 60, 80, 0.2);
+	border-radius: 10px;
+}
+
+.link-favorite-product {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 5px 0;
+}
+
+.delete-favorite-product, .add-favorite-in-basket {
+	display: inline-block;
+	/* border: 2px solid red; */
+	font-size: 1.6rem;
+	cursor: pointer;
+	position: relative;
+	left: 480px;
+}
+
+.favorite-product {
+	border-bottom: 1px solid #666;
+	padding: 15px 20px;
+}
+
+.favorite-product-img img {
+	height: 100px;
+}
+
+.favorite-product-info {
+	padding-left: 30px;
+}
+
+.favorite-product-title {
+	font-size: 17px;
+	padding-bottom: 20px;
+}
+
+.favorite-product-price {
+	font-size: 17px;
+	font-weight: 700;
+}

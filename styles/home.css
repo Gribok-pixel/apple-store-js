@@ -1,0 +1,91 @@
+@import 'modules/reset.css';
+@import 'modules/header.css';
+
+.main {
+    margin-top: 30px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    gap: 10px;
+}
+
+.card {
+    width: 330px;
+    /* border: 1px solid red; */
+}
+
+.card:hover {
+    box-shadow: 0px 5px 10px 2px rgba(163, 163, 163, 0.2);
+}
+
+.add-favorite, .add-basket {
+    height: 50px;
+    position: relative;
+}
+
+.add-favorite i {
+    font-size: 1.3rem;
+    display: inline-block;
+    position: absolute;
+    cursor: pointer;
+    right: 15px;
+    top: 15px;
+    color: rgb(102, 102, 102)
+}
+
+.add-favorite i:hover{
+    color: #b735ae;
+}
+.add-favorite i:hover, .add-basket i:hover{
+    color: #b735ae;
+    border-color: #b735ae;
+}
+
+.add-basket i {
+    padding: 6px 25px;
+    border-radius: 5px;
+    border: 1px solid #676767;
+    color: #676767;
+    font-size: 1.8rem;
+    display: inline-block;
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+    bottom: 10px;
+}
+
+.go-to-card {
+    display: block;
+}
+
+.card-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-img img {
+    height: 190px;
+}
+
+.card-title {
+    width: 90%;
+    margin-top: 25px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 24px;
+}
+
+.card-price {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+
+

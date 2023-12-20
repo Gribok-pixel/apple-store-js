@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "title": "Apple iPhone 15 Pro Max SIM 1 ТБ, «титановый бежевый»",
+        "discount": -15,
+        "oldPrice": 119000,
+        "image": "model-1.jpeg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 2,
+        "title": "Apple iPhone 15 Pro Max SIM 1 ТБ, «титановый белый»",
+        "discount": -25,
+        "oldPrice": 149000,
+        "image": "model-2.jpeg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 3,
+        "title": "Apple iPhone 15 Pro Max SIM 1 ТБ, «титановый чёрный»",
+        "discount": -20,
+        "oldPrice": 109900,
+        "image": "model-3.jpeg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 4,
+        "title": "Apple iPhone 15 Pro eSIM 1 ТБ, «титановый синий»",
+        "discount": -10,
+        "oldPrice": 99900,
+        "image": "model-4.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 5,
+        "title": "Apple iPhone 15 Pro Max dual-SIM 1 ТБ, «титановый синий»",
+        "discount": -15,
+        "oldPrice": 119900,
+        "image": "model-5.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 6,
+        "title": "Apple iPhone 15 Pro Max dual-SIM 1 ТБ, «титановый белый»",
+        "discount": -15,
+        "oldPrice": 129000,
+        "image": "model-6.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 7,
+        "title": "Apple iPhone 15 Pro Max dual-SIM 1 ТБ, «титановый чёрный»",
+        "discount": -20,
+        "oldPrice": 121900,
+        "image": "model-7.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 8,
+        "title": "Apple iPhone 15 Pro Max dual-SIM 512 ГБ, «титановый белый»",
+        "discount": -20,
+        "oldPrice": 119000,
+        "image": "model-8.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 9,
+        "title": "Apple iPhone 15 Pro Max SIM 1 ТБ, «титановый бежевый»",
+        "discount": -20,
+        "oldPrice": 140900,
+        "image": "model-9.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 10,
+        "title": "Apple iPhone 15 Pro eSIM 1 ТБ, «титановый синий»",
+        "discount": -10,
+        "oldPrice": 229000,
+        "image": "model-10.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 11,
+        "title": "Apple iPhone 15 Pro dual-SIM 1 ТБ, «титановый чёрный»",
+        "discount": -15,
+        "oldPrice": 209000,
+        "image": "model-11.jpeg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 12,
+        "title": "Apple iPhone 15 Pro dual-SIM 1 ТБ, «титановый синий»",
+        "discount": -15,
+        "oldPrice": 91000,
+        "image": "model-12.jpeg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 13,
+        "title": "Apple iPhone 15 Pro dual-SIM 1 ТБ, «титановый бежевый»",
+        "discount": -10,
+        "oldPrice": 179000,
+        "image": "model-13.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 14,
+        "title": "Apple iPhone 15 Pro SIM 512 ГБ, «титановый белый»",
+        "discount": -25,
+        "oldPrice": 111900,
+        "image": "model-14.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 15,
+        "title": "Apple iPhone 15 Pro Max dual-SIM 512 ГБ, «титановый чёрный»",
+        "discount": -20,
+        "oldPrice": 111900,
+        "image": "model-15.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 16,
+        "title": "Apple iPhone 15 Pro Max dual-SIM 512 ГБ, «титановый бежевый»",
+        "discount": -5,
+        "oldPrice": 124000,
+        "image": "model-16.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 17,
+        "title": "Apple iPhone 15 Pro SIM 1 ТБ, «титановый белый»",
+        "discount": -10,
+        "oldPrice": 89000,
+        "image": "model-17.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 18,
+        "title": "Apple iPhone 15 Pro dual-SIM 1 ТБ, «титановый синий»",
+        "discount": -15,
+        "oldPrice": 89900,
+        "image": "model-18.jpg",
+        "color": "#d8e964"
+    },
+    {
+        "id": 19,
+        "title": "Apple iPhone 15 Pro eSIM 1 ТБ, «титановый синий»",
+        "discount": -25,
+        "oldPrice": 204900,
+        "image": "model-19.jpg",
+        "color": "#d8e964"
+    }
+]
